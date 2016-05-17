@@ -1,0 +1,11 @@
+/* Header and Footer Styles */
+footer, header {
+	color: darkblue;
+	font-weight: 900;
+	text-align: center;
+}
+
+footer {
+	margin: 1.2em 0;
+}
+
